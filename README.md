@@ -1,5 +1,4 @@
-## flutter_news_app  [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/flutter_news_app?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_SoftUI_watchApp) ![Dart CI](https://github.com/TheAlphamerc/flutter_news_app/workflows/Dart%20CI/badge.svg)
-
+## flutter_news_app  
 A Simple News App built with Flutter. In this app, there is a Home page, which will display top news from newsapi.org. News categories ranges from tech to entertainment. You can choose news category displayed on category page. App is providing a smooth and amazing design with gestures effect and smooth experience with android and iOS both platform.
 
 
@@ -17,8 +16,7 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
 - [x] Display news detail
 - [ ] Display full news detail
 
-## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/flutter_news_app/total?color=green)
-<a href="https://github.com/TheAlphamerc/flutter_news_app/releases/download/v1.0.0/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+
 
 ## Screenshots
 
@@ -30,25 +28,12 @@ Dark theme               |  Light Theme               | Dark theme              
 ![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/dark_5.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/light_5.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/dark_6.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_news_app/blob/master/screenshots/light_6.jpg?raw=true)
 
 
-## Pull Requests
-
-I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
-
-## Created & Maintained By
-
-[Sonu Sharma](https://github.com/TheAlphamerc) ([Twitter](https://www.twitter.com/TheAlphamerc)) ([Youtube](https://www.youtube.com/user/sonusharma045sonu/))
-([Insta](https://www.instagram.com/_sonu_sharma__))
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](https://www.paypal.me/TheAlphamerc/)
-
 ## News API Credit
 https://newsapi.org/
 
 ## Getting Started
 > Before you build this App from source code, please get an ApiKey from [newsapi.org](https://newsapi.org)
-and add your ApiKey in [Constants.dart](https://github.com/TheAlphamerc/flutter_news_app/blob/aad3f409e6f0ba7aeb7e5a823a942c697341c134/lib/src/helpers/constants.dart#L2). 
+and add your ApiKey
 
 This project is a starting point for a Flutter application.
 
